@@ -36,3 +36,16 @@ textarea {
 .sidebar h2 {
     margin-top: 5px;
 }
+
+#new-entry-title,
+#edit-entry-title {
+    margin-bottom: 5px;
+}
+
+textarea {
+    display: block;
+}
+
+body {
+    background-color: white;
+}
